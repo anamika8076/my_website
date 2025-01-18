@@ -26,7 +26,7 @@ The portfolio features color theme changes to enhance the visual appeal. Multipl
 
 The portfolio is live and can be accessed on Netlify using the following link:
 
-[Live Portfolio](https://portfolioisthe.netlify.app/)
+[Live Portfolio](https://anamika005.netlify.app/)
 
 ## Usage
 
